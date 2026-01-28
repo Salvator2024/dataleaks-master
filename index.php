@@ -28,7 +28,6 @@
                 <li class="lulu"><a href="">Home<i class="material-icons left" id="homeicon"></i></a></li>
                 <li class="lulu"><a href="tos.html">TOS</a></li>
                 <li class="lulu"><a href="home.html">FAQ</a></li>
-                <li class="lulu"><a href="home.html">Contact</a></li>
                 <li class="lulu" id="reg_btn"><a href="home.html">Register</a></li>
 
                 <li><a id="login-btn" class="waves-effect btn">Login</a></li>
