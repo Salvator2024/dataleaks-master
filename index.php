@@ -25,7 +25,7 @@
                 <img id="lg" src="/images/logo.png">
             </a>
             <ul class="right hide-on-med-and-down">
-                <li class="lulu"><a href="">Home<i class="material-icons left" id="homeicon">home</i></a></li>
+                <li class="lulu"><a href="">Home<i class="material-icons left" id="homeicon"></i></a></li>
                 <li class="lulu"><a href="tos.html">TOS</a></li>
                 <li class="lulu"><a href="home.html">FAQ</a></li>
                 <li class="lulu"><a href="home.html">Contact</a></li>
